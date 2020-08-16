@@ -1,31 +1,25 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Transparent Hope
+image: /img/grass-sunset.jpg
+heading: What part of your story is waiting to be told?
+subheading: Providing hope in situations, something something
 mainpitch:
-  title: Why Kaldi
+  title: Have you ever felt like hope was not visible?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    That when you looked through the lens of pain all you saw was heartache and pain? Maybe for you hope is too transparent and you can’t see it. Or maybe you see hope clearly because for you transparency means there is nothing hindering your view. Whatever your situation we want you to know that we care about you and we are glad you are here.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Are you holding back out of fear? It is easy to fall into the trap of overthinking about your experience. Know that your story is God’s kingdom business. Don’t let your story go untold.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/green-ferns.jpg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-    - image: /img/coffee-gear.png
+    - image: /img/sparkler-hand.jpg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your

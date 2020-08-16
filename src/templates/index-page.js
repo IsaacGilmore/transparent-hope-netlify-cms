@@ -33,28 +33,30 @@ export const IndexPageTemplate = ({
           lineHeight: '1',
           justifyContent: 'space-around',
           alignItems: 'left',
-          flexDirection: 'column',
+          flexDirection: 'column'
         }}
       >
         <h1
-          className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
+          className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen has-text-centered"
           style={{
             boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
+              '#77B8AA95 0.5rem 0px 0px, #77B8AA95 -0.5rem 0px 0px',
+            backgroundColor: '#77B8AA95',
+            borderRadius: '5px',
             color: 'white',
             lineHeight: '1',
-            padding: '0.25em',
+            padding: '0.25em'
           }}
         >
           {title}
         </h1>
         <h3
-          className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
+          className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen has-text-centered"
           style={{
             boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
+              '#77B8AA95 0.5rem 0px 0px, #77B8AA95 -0.5rem 0px 0px',
+            backgroundColor: '#77B8AA95',
+            borderRadius: '5px',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',

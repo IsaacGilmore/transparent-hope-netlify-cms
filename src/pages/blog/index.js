@@ -10,19 +10,21 @@ export default class BlogIndexPage extends React.Component {
         <div
           className="full-width-image-container margin-top-0"
           style={{
-            backgroundImage: `url('/img/blog-index.jpg')`,
+            backgroundImage: `url('/img/sparkler-hand-cropped.jpg')`,
+            backgroundAttachment: `fixed`,
           }}
         >
           <h1
-            className="has-text-weight-bold is-size-1"
+            className="has-text-weight-bold is-size-1 has-text-center"
             style={{
-              boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
-              backgroundColor: '#f40',
+              boxShadow: '0.5rem 0 0 #77B8AA95, -0.5rem 0 0 #77B8AA95',
+              backgroundColor: '#77B8AA95',
+              borderRadius: '5px',
               color: 'white',
               padding: '1rem',
             }}
           >
-            Latest Stories
+            Latest Posts
           </h1>
         </div>
         <section className="section">
