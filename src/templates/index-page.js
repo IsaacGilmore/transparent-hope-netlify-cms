@@ -17,13 +17,13 @@ export const IndexPageTemplate = ({
 }) => (
   <div>
     <div
-      className="full-width-image margin-top-0"
+      className="full-width-image-container margin-top-0"
       style={{
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
-        backgroundPosition: `top left`,
-        backgroundAttachment: `fixed`,
+        backgroundPosition: `fixed`,
+        backgroundSize: 'cover'
       }}
     >
       <div
@@ -40,9 +40,8 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen has-text-centered"
           style={{
             boxShadow:
-              '#77B8AA95 0.5rem 0px 0px, #77B8AA95 -0.5rem 0px 0px',
-            backgroundColor: '#77B8AA95',
-            borderRadius: '5px',
+              '#77B8AAC8 0.5rem 0px 0px, #77B8AAC8 -0.5rem 0px 0px',
+            backgroundColor: '#77B8AAC8',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em'
@@ -54,9 +53,8 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen has-text-centered"
           style={{
             boxShadow:
-              '#77B8AA95 0.5rem 0px 0px, #77B8AA95 -0.5rem 0px 0px',
-            backgroundColor: '#77B8AA95',
-            borderRadius: '5px',
+              '#77B8AAC8 0.5rem 0px 0px, #77B8AAC8 -0.5rem 0px 0px',
+            backgroundColor: '#77B8AAC8',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -74,31 +72,29 @@ export const IndexPageTemplate = ({
               <div className="content">
                 <div className="content">
                   <div className="tile">
-                    <h1 className="title">{mainpitch.title}</h1>
+                    <h1 className="title has-text-centered">{mainpitch.title}</h1>
                   </div>
                   <div className="tile">
                     <h3 className="subtitle">{mainpitch.description}</h3>
                   </div>
                 </div>
-                <div className="columns">
+                <br></br>
+                <br></br>
+                <br></br>
+                <div className="columns" style={{
+                  backgroundColor: '#77B8AA20'
+                }}>
                   <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
+                    <h3 className="has-text-weight-semibold is-size-2 has-text-centered">
                       {heading}
                     </h3>
                     <p>{description}</p>
                   </div>
                 </div>
                 <Features gridItems={intro.blurbs} />
-                <div className="columns">
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/products">
-                      See all products
-                    </Link>
-                  </div>
-                </div>
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
-                    Latest stories
+                    Latest posts
                   </h3>
                   <BlogRoll />
                   <div className="column is-12 has-text-centered">

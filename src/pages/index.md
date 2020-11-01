@@ -2,63 +2,28 @@
 templateKey: index-page
 title: Transparent Hope
 image: /img/grass-sunset.jpg
-heading: What part of your story is waiting to be told?
-subheading: Providing hope in situations, something something
+subheading: Finding hope in the midst of adversity
 mainpitch:
-  title: Have you ever felt like hope was not visible?
+  title:  I first discovered that life could be hard when I was a small child. 
   description: >
-    That when you looked through the lens of pain all you saw was heartache and pain? Maybe for you hope is too transparent and you can’t see it. Or maybe you see hope clearly because for you transparency means there is nothing hindering your view. Whatever your situation we want you to know that we care about you and we are glad you are here.
+    There have been many circumstances over the years that have pointed me in this direction, but several stand out a little more than others. My family moved frequently as my father was in the military and we lived on multiple military bases for many years. We sometimes switched schools mid-year. When I was 7 years-old my father died suddenly of a heart attack. Life got a little harder. When I was 16 years old a man who targeted my mother and forced her to marry him took her life when she tried to leave him and almost took mine in the process. My siblings and I proceeded in life without parents. I went to college, married and have 4 amazing children. At one point I faced a difficult job situation where I was targeted and mistreated by superiors for reporting unethical and potential illegal behaviors by a colleague. It tripped me up for a while and hope did not seem to be present at the moment. My self-esteem and self-worth took some plunges over the years as they do for each one of us, but with God’s help, I figured out how to keep moving and how to encourage others to do the same. In the Spring of 2019, it became evident that I needed to leave a multiple-decades marriage due to a really difficult environment that was not changing after many years of prayer, service and hard work. 
 description: >-
-    Are you holding back out of fear? It is easy to fall into the trap of overthinking about your experience. Know that your story is God’s kingdom business. Don’t let your story go untold.
+    Here I am today. Life has not always been easy but hope somehow eventually shows up. Let’s continue this journey together. This website is designed for you to find hope and healing. Whatever your struggle, you are not alone. There are others journeying through difficult life circumstances. I’m glad you are here.
 intro:
   blurbs:
     - image: /img/green-ferns.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Life is difficult but do-able. Have you ever found yourself overwhelmed with the thought that life is hard? It certainly is. We can’t sugar coat it. Let’s journey this path together.
     - image: /img/sparkler-hand.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Pray and proceed. No matter where you are spiritually, I want to encourage you and be supportive. Life is not easy so our relationship with God will have its ups and downs. My hope is that you find what you need here and are able to experience some healing and grace. 
+
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        You can’t work on what you don’t notice. Have you ever heard the saying, “You don’t know what you don’t know”? When we are in the midst of difficulty it’s easy to lose sight of big picture thinking and to get discouraged. We zoom in and get stuck. My hope is that you will find strength and support in the stories you read and be able to expand your horizons into personal growth opportunities.  
+
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+        Empty your wheelbarrow. Idea here is lightening the load. This is an analogy I use with patients – a full wheelbarrow gets heavier as the day goes on, others can have easy access to manipulate us to carry the things they should be responsible for (i.e. emotions), throw their junk in or we grab their “stuff” out of their wheelbarrow and put in ours because no canopy/top (boundaries&communication importance); weight of stress takes a toll on our energy level. Each of us have the responsibility of appropriately caring for ourselves, lifting and pushing our own wheelbarrow, protecting and preserving our energy for the future; at the end of the day the wheelbarrow sits on top of us in bed – heavy or light is our choice.
+
 ---

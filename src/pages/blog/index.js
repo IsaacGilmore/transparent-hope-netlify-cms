@@ -8,7 +8,7 @@ export default class BlogIndexPage extends React.Component {
     return (
       <Layout>
         <div
-          className="full-width-image-container margin-top-0"
+          className="full-width-image margin-top-0"
           style={{
             backgroundImage: `url('/img/sparkler-hand-cropped.jpg')`,
             backgroundAttachment: `fixed`,
@@ -17,8 +17,8 @@ export default class BlogIndexPage extends React.Component {
           <h1
             className="has-text-weight-bold is-size-1 has-text-center"
             style={{
-              boxShadow: '0.5rem 0 0 #77B8AA95, -0.5rem 0 0 #77B8AA95',
-              backgroundColor: '#77B8AA95',
+              boxShadow: '0.5rem 0 0 #77B8AAC8, -0.5rem 0 0 #77B8AAC8',
+              backgroundColor: '#77B8AAC8',
               borderRadius: '5px',
               color: 'white',
               padding: '1rem',
